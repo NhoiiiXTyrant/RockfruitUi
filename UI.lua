@@ -267,7 +267,7 @@ function Library:CreateWindow(options)
     local windowSize    = UDim2.fromOffset(580, 460)
     local sideBarWidth  = 160
 
-    local SPHERE_ICON   = "rbxassetid://87526284179554"
+    local SPHERE_ICON   = "rbxassetid://70895505430795"
     local SPHERE_SIZE   = 56
     local MenuIconMode  = "phone"   -- "phone" | "pc"
 	local CurrentScale  = 1
